@@ -4,9 +4,10 @@ where users can sign in or sign up using their email-address and password. They 
 edit,update and delete posts and view them. 
 [Demo](http://tough-interest.surge.sh)
 
-#authentication
+# Authentication
+
 email :- stevesmith@gmail.com
 password :- smith@123
-
+-----------------------------------
 email :- devidwarner@gmail.com
 password :- devid@123 
