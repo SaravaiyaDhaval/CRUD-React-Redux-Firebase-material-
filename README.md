@@ -8,6 +8,6 @@ edit,update and delete posts and view them.
 
 email :- stevesmith@gmail.com
 password :- smith@123
------------------------------------
+
 email :- devidwarner@gmail.com
 password :- devid@123 
